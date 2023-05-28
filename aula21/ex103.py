@@ -1,3 +1,5 @@
+#----------------------------FICHA DE JOGADOR COM NOME E NÚMERO DE GOLS---------------------------#
+
 def ficha(jogador = '<Desconhecido>', gols = 0):
     print(f'O jogador {jogador} fez {gols} gosls no campeonato')
     

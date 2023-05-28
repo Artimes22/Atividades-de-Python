@@ -1,3 +1,5 @@
+#--------------------------------FATORIAL DE UM NÚMERO E CONTA---------------------------#
+
 def fatorial(num = 1, show=False):
     """
         ->Calcula o fatorial de um número.

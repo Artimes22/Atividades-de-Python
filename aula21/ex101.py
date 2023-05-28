@@ -1,3 +1,5 @@
+#---------------------------------OBRIGATORIEDADE DO VOTO----------------------------#
+
 def voto(ano):
     from datetime import datetime
     atual = datetime.now().year 

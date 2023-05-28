@@ -1,3 +1,5 @@
+#--------------------SORTEIO DE NÚMEROS E A SOMA DOS NÚMEROS PARES-------------------#
+
 from random import randint
 import time
 
